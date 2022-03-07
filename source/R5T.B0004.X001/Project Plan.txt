@@ -1,0 +1,3 @@
+R5T.B0004.X001 - Using directive block label values.
+
+GOALS:
